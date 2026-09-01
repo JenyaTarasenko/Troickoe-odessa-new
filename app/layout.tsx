@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://joyful-blini-28a6ab.netlify.app/"),
 
   verification: {
-    google: "F8L-WtNY0RLl3x6p-wFAikqQjBX_XTsAWTvd7NJaKRM",
+    // google: "F8L-WtNY0RLl3x6p-wFAikqQjBX_XTsAWTvd7NJaKRM",
   },
 
   // 🔥 SEO keywords (можно оставить, но Google почти не учитывает)
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
         url: "https://joyful-blini-28a6ab.netlify.app/images/og.png",
         width: 1200,
         height: 630,
-        alt: "Е-95 AVTOSERVICE",
+        alt: "Troitscoe Evacuator 24/7",
       },
     ],
     locale: "ru_UA",
@@ -66,6 +66,7 @@ export const metadata: Metadata = {
     // GEO + LOCAL SEO
     "geo.region": "UA-51",
     "geo.placename": "Троицкое, Одесская область, Украина",
+    "business:contact_data:email": "troickoetroickoe25@gmail.com",
 
     // Координаты точки бизнеса
     "geo.position": "47.647677;30.309478",

@@ -15,7 +15,7 @@ export default function ServiceSchema() {
 
     telephone: "+380668029054",
 
-    email: "eavtoservice@gmail.com",
+    email: "troickoetroickoe25@gmail.com",
 
     image:
       "https://joyful-blini-28a6ab.netlify.app/images/og.png",
@@ -84,7 +84,8 @@ export default function ServiceSchema() {
 
     contactPoint: {
       "@type": "ContactPoint",
-      telephone: "+380663099011",
+      email: "troickoetroickoe25@gmail.com",
+      telephone: "+380668029054",
       contactType: "customer service",
       availableLanguage: ["uk", "ru"],
     },

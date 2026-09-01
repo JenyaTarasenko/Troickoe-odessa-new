@@ -1,4 +1,3 @@
-
 export default function SchemaAutoHelp() {
   const schema = {
     "@context": "https://schema.org",
@@ -13,7 +12,10 @@ export default function SchemaAutoHelp() {
 
     telephone: "+380668029054",
 
-    email: "eavtoservice@gmail.com",
+    email: "troickoetroickoe25@gmail.com",
+
+    image:
+      "https://joyful-blini-28a6ab.netlify.app/images/og.png",
 
     address: {
       "@type": "PostalAddress",
@@ -84,6 +86,7 @@ export default function SchemaAutoHelp() {
     contactPoint: {
       "@type": "ContactPoint",
       telephone: "+380668029054",
+      email: "troickoetroickoe25@gmail.com",
       contactType: "customer service",
       availableLanguage: ["uk", "ru"],
     },
@@ -98,4 +101,3 @@ export default function SchemaAutoHelp() {
     />
   );
 }
-
